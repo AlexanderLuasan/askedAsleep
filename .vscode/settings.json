@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "trivia_scraper"
+    ]
+}
