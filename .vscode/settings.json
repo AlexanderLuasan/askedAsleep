@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "trivia_scraper"
+        "trivia_scraper",
+        "text_minning"
     ]
 }
