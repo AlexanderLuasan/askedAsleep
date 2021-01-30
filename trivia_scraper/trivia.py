@@ -17,15 +17,7 @@ class trivia:
             "answer": self.correct_answer,
             "meta": self.meta
         })
-    def fromDict(dict_obj):
-        try:
-            return trivia(
-                dict_obj["question_text"],
-                dict_obj["choices"],
-                dict_obj["answer"],
-                dict_obj["meta"])
-        except Exception as e:
-            print(dict_obj)
-            raise e
+
+
 
         
